@@ -1,4 +1,4 @@
-# 🔵 AI Voice Assistant — Alexa-style
+#  AI Voice Assistant — Alexa-style
 
 A real-time voice assistant powered by the **Anthropic Claude API**.  
 Supports wake-word voice input, streaming AI responses, and text-to-speech output.  
@@ -17,14 +17,14 @@ Falls back gracefully to text/keyboard mode if no microphone is available.
 
 ---
 
-## 📦 Requirements
+##  Requirements
 
 - Python 3.10+
 - An [Anthropic API key](https://console.anthropic.com/)
 
 ---
 
-## 🚀 Installation
+##  Installation
 
 ### 1. Clone or download the project
 
@@ -84,7 +84,7 @@ On startup you will be asked to choose:
 
 ---
 
-## ⚙️ Configuration (Environment Variables)
+##  Configuration (Environment Variables)
 
 All settings are controlled via environment variables. None are hardcoded.
 
@@ -112,7 +112,7 @@ python assistant.py
 
 ---
 
-## 🗣️ Built-in Voice / Text Commands
+##  Built-in Voice / Text Commands
 
 | Command | What it does |
 |---|---|
@@ -122,7 +122,7 @@ python assistant.py
 
 ---
 
-## 🏗️ Project Structure
+##  Project Structure
 
 ```
 alexa_assistant/
@@ -135,7 +135,7 @@ alexa_assistant/
 
 ---
 
-## 🧠 How It Works
+##  How It Works
 
 ```
 You speak / type
@@ -153,7 +153,7 @@ TTSEngine      (pyttsx3 — speaks each sentence in real time)
 
 ---
 
-## 🛠️ Troubleshooting
+##  Troubleshooting
 
 | Problem | Fix |
 |---|---|
