@@ -6,7 +6,7 @@ Falls back gracefully to text/keyboard mode if no microphone is available.
 
 ---
 
-## ✨ Features
+##  Features
 
 - 🎙️ Wake-word voice activation (`hey assistant`, `hi assistant`, etc.)
 - 🤖 Claude AI brain with multi-turn conversation memory
