@@ -68,11 +68,11 @@ set ANTHROPIC_API_KEY=sk-ant-...
 $env:ANTHROPIC_API_KEY="sk-ant-..."
 ```
 
-> ⚠️ Never paste your API key directly into the code.
+> Never paste your API key directly into the code.
 
 ---
 
-## ▶️ Run
+## Run
 
 ```bash
 python assistant.py
