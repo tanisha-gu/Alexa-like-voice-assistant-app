@@ -51,7 +51,7 @@ pip install anthropic SpeechRecognition pyttsx3 PyAudio
 
 ---
 
-## 🔑 Set Your API Key
+## Set Your API Key
 
 **Linux / Mac:**
 ```bash
